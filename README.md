@@ -18,6 +18,14 @@ Steps:
 * Get the source code here by downloading everything as a zip or using git to branch, clone, or fork.
 * Open one of the sample project files and add references to the Leap SDK.  The crucial libraries are: LeapCSharp.NET4.0.dll, Leap.dll, and LeapCSharp.dll.  Make sure all these files are set to Copy always (File Properties > Copy to Output Directory).
 * Build and run.  Load the sample plugin in Rhino (PlugInManager > Install > Navigate to sample .rhp file).  Run the sample command.
+* Let the hand waving begin...
+
+Get Involved (contributing)
+---------------------------
+There are many ways to contribute to this project:
+
+* Report bugs/wishes to the issue list at https://github.com/mcneel/rhinoleapsamples/issues
+* Directly edit the source code using git. If you need help with this, please let us know.
 
 Legal Stuff
 -----------
